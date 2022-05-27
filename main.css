@@ -24,7 +24,7 @@ body{
  }
  .header {
   padding: 100px;
-   padding-bottom:480px;
+   padding-bottom:100px;
   background: black;
   color: white;
   background-image: url(image1.jpg);
