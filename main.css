@@ -1,6 +1,6 @@
 .mouth{
-  padding: 100px;
-  height:100%
+  padding: 10px;
+
   text-align: center;
   background:white;
   color: white;
@@ -24,6 +24,7 @@ body{
  }
  .header {
   padding: 100px;
+   height:200%;
   text-align:
   background: black;
   color: white;
